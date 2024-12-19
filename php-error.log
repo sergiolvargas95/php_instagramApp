@@ -1,0 +1,70 @@
+[17-Dec-2024 01:50:12 UTC] Hello, Errors!
+[17-Dec-2024 17:36:32 UTC] Hello, Errors!
+[17-Dec-2024 17:36:32 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 17:38:09 UTC] Hello, Errors!
+[17-Dec-2024 17:38:09 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 17:38:25 UTC] Hello, Errors!
+[17-Dec-2024 17:38:25 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 18:54:43 UTC] Hello, Errors!
+[17-Dec-2024 18:54:43 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 18:55:03 UTC] Hello, Errors!
+[17-Dec-2024 18:55:03 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 18:55:34 UTC] Hello, Errors!
+[17-Dec-2024 18:55:34 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 18:55:44 UTC] Hello, Errors!
+[17-Dec-2024 18:55:44 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 18:56:33 UTC] Hello, Errors!
+[17-Dec-2024 18:56:33 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 18:59:57 UTC] Hello, Errors!
+[17-Dec-2024 18:59:57 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 18:59:58 UTC] Hello, Errors!
+[17-Dec-2024 18:59:58 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:00:02 UTC] Hello, Errors!
+[17-Dec-2024 19:00:02 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:00:20 UTC] Hello, Errors!
+[17-Dec-2024 19:00:20 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:04:23 UTC] Hello, Errors!
+[17-Dec-2024 19:04:23 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:05:06 UTC] Hello, Errors!
+[17-Dec-2024 19:05:06 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:05:29 UTC] Hello, Errors!
+[17-Dec-2024 19:05:29 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:06:51 UTC] Hello, Errors!
+[17-Dec-2024 19:06:51 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:07:25 UTC] Hello, Errors!
+[17-Dec-2024 19:10:13 UTC] Hello, Errors!
+[17-Dec-2024 19:10:13 UTC] Class "Dotenv\Dotenv" not found
+[17-Dec-2024 19:14:22 UTC] Hello, Errors!
+[17-Dec-2024 19:14:22 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:42 UTC] Hello, Errors!
+[17-Dec-2024 19:15:42 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:45 UTC] Hello, Errors!
+[17-Dec-2024 19:15:45 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:47 UTC] Hello, Errors!
+[17-Dec-2024 19:15:47 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:48 UTC] Hello, Errors!
+[17-Dec-2024 19:15:48 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:48 UTC] Hello, Errors!
+[17-Dec-2024 19:15:48 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:49 UTC] Hello, Errors!
+[17-Dec-2024 19:15:49 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:49 UTC] Hello, Errors!
+[17-Dec-2024 19:15:49 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:49 UTC] Hello, Errors!
+[17-Dec-2024 19:15:49 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:49 UTC] Hello, Errors!
+[17-Dec-2024 19:15:49 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:49 UTC] Hello, Errors!
+[17-Dec-2024 19:15:49 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:49 UTC] Hello, Errors!
+[17-Dec-2024 19:15:49 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:50 UTC] Hello, Errors!
+[17-Dec-2024 19:15:50 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:50 UTC] Hello, Errors!
+[17-Dec-2024 19:15:50 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:50 UTC] Hello, Errors!
+[17-Dec-2024 19:15:50 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:15:50 UTC] Hello, Errors!
+[17-Dec-2024 19:15:50 UTC] Unable to read any of the environment file(s) at [/home/redhood/Documents/workspace/cursos/PHP8_Laravel11/fundamentos/instagramApp/../src/config/.env].
+[17-Dec-2024 19:18:00 UTC] Hello, Errors!
+[17-Dec-2024 19:28:34 UTC] Hello, Errors!
